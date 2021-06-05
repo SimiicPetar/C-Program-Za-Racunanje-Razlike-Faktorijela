@@ -5,8 +5,7 @@ using namespace std;
 
 int funk(int n,int m)
 {
-    //unsigned int n;
-    //unsigned int m;
+    
     unsigned long long factorial1 = 1;
     unsigned long long factorial2 = 1;
 
